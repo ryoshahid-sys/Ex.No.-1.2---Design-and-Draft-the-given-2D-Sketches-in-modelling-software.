@@ -40,3 +40,4 @@
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
+<img width="1010" height="718" alt="ex1 1" src="https://github.com/user-attachments/assets/c899b8f0-6740-4cdf-9870-56fbe1bb5228" />
